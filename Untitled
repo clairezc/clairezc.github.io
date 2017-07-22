@@ -1,0 +1,21 @@
+<!DOCTYPE HTML>
+<html>
+<body>
+<div>
+<table border="0">
+<tr>
+  <td>100</td>
+  <td>200</td>
+  <td>300</td>
+  <td>400</td>
+</tr>
+<tr>
+  <td>500</td>
+  <td>600</td>
+  <td>700</td>
+  <td>800</td>
+</tr>
+</table>
+</div>
+</body>
+</html>
